@@ -3,6 +3,10 @@
 <a href="https://www.linkedin.com/in/abhishek-mhamane-a1340716a/">
   <img align="left" alt="Abhishek's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+<a href="https://www.instagram.com/abhi_mhamane/">
+  <img align="left" alt="Abhishek's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <br />
 <br />
 
@@ -13,7 +17,7 @@ Hi there, I'm **Abhishek Mhamane**, a **Computer Engineering Student and Develop
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an Computer Engineering Student;
-- 🌱 I’m currently learning Software Developmenet; 
+- 🌱 I’m currently learning Node js; 
 - 🤔 My interests in Software Developement;
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
