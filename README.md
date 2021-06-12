@@ -8,7 +8,7 @@
 
 Hi there, I'm **Abhishek Mhamane**, a **Computer Engineering Student and Developer** 🚀 from India. 
 
-  <img align="right" alt="GIF" width="100px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" width="400px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
