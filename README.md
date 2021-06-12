@@ -18,7 +18,7 @@ Hi there, I'm **Abhishek Mhamane**, a **Computer Engineering Student and Develop
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an Computer Engineering Student;
-- 🌱 I’m currently learning Node js; 
+- 🌱 I’m currently learning Docker & Kubernetes; 
 - 🤔 My interests in Software Developement;
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
