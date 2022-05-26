@@ -18,7 +18,7 @@ Hi there, I'm **Abhishek Mhamane**, a **Computer Engineering Student and Develop
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an Computer Engineering Student;
-- 🌱 I’m currently learning Docker & Kubernetes; 
+- 🌱 I’m currently learning Google Cloud Platform; 
 - 🤔 My interests in Software Developement;
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 📫 Please email via abhimhamane13@gmail.com to reach me.
