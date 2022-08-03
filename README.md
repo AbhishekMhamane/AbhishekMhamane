@@ -11,14 +11,14 @@
 <br />
 <br />
 
-Hi there, I'm **Abhishek Mhamane**, a **Computer Engineering Student and Developer** 🚀 from India. 
+Hi there, I'm **Abhishek Mhamane**, a **Software Engineer** 🚀 from India. 
 
   <img align="right" alt="GIF" width="400px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Computer Engineering Student;
-- 🌱 I’m currently learning Google Cloud Platform; 
+- 👨🏽‍💻 I’m currently an Software Engineer;
+- 🌱 I like to Learn and Solve problems; 
 - 🤔 My interests in Software Developement;
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 📫 Please email via abhimhamane13@gmail.com to reach me.
