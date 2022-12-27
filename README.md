@@ -5,9 +5,9 @@
 </a>
 
 
-<a href="https://www.instagram.com/abhi_mhamane/">
+<!-- <a href="https://www.instagram.com/abhi_mhamane/">
   <img align="left" alt="Abhishek's LinkdeIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-</a>
+</a> -->
 <br />
 <br />
 
