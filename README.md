@@ -17,7 +17,7 @@ Hi there, I'm **Abhishek Mhamane**, a **Software Engineer** 🚀 from India.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Software Engineer;
+- 👨🏽‍💻 I’m Software Engineer;
 - 🌱 I like to Learn and Solve problems; 
 - 🤔 My interests in Software Developement;
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
